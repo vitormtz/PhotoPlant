@@ -1,0 +1,32 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Backup e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Configurações específicas de execução/testes locais
+.idea/runConfigurations/
+
+# IntelliJ & Android Studio: arquivos que às vezes aparecem
+.idea/codeStyles/
+*.ipr
+*.iws
+
+# Arquivos do sistema
+Thumbs.db
+ehthumbs.db
