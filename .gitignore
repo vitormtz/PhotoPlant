@@ -30,3 +30,21 @@ local.properties
 # Arquivos do sistema
 Thumbs.db
 ehthumbs.db
+
+# --- Extras: segurança e build (adicionados) ---
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+secrets.properties
+key.properties
+
+*.apk
+*.aab
+*.hprof
+
+.kotlin/
+
+/.idea/dictionaries
+/.idea/jarRepositories.xml
+/.idea/deploymentTargetDropDown.xml
